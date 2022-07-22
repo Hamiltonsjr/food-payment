@@ -1,0 +1,4 @@
+mysql:
+  url: jdbc:mysql://localhost:3306/DB_pagamentos?useSSL=false
+  username: hamilton
+  password: '02934000'
