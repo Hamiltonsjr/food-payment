@@ -15,6 +15,8 @@ import java.math.BigDecimal;
 @Table(name = "pagamentos")
 @AllArgsConstructor
 @NoArgsConstructor
+@Getter
+@Setter
 public class Payment {
 
     @Id
